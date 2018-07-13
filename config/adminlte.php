@@ -131,6 +131,77 @@ return [
             'url'         => 'penjualan/dompul',
             'icon'        => 'file',
         ],
+        'MASTER',
+        [
+            'text' => 'Master',
+            'url'  => 'admin/blog',
+            'can'  => 'manage-blog',
+        ],
+        [
+            'text'        => 'Lokasi',
+            'url'         => 'list/users',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Gudang',
+            'url'         => 'list/users',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Canvasser/Sales',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Customer/Kios',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Supplier',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Satuan',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Produk/Starter Pack',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Master Dompul',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Master Sub Dompul',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Bank',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Tipe Dompul',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Harga Dompul',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
+        [
+            'text'        => 'Harga Produk/Starter Pack',
+            'url'         => 'penjualan/dompul',
+            'icon'        => 'file',
+        ],
         'ACCOUNT SETTINGS',
         [
             'text' => 'Profile',
